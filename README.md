@@ -1,2 +1,2 @@
 # IIUM-Job-House
-my project 
+my part in IIUM Job House project 
